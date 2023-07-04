@@ -188,7 +188,7 @@ Verifier在公開場域得到root1, Prover在非公開場域透過隱私資訊�
 
 <!--<img src="https://lh3.googleusercontent.com/drive-viewer/AFGJ81qVqSWdhS2FauGn8xD0dO-0wVGgrIlxII4IyEI7Z7-eL8SWxrJRchu1BDnDQfUe741h8fW4KD_xSJZLU-LDtMMnLURqAg=s1600" />
 -->
-<img src = "mk_tree.png">
+<img src = "/mk_tree.png">
 </div>
 
 
