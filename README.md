@@ -28,7 +28,7 @@ css: unocss
 # Cryptography Term Project - Decentralized Storage with Zero Knowledge Proof of Ownership
 
 密碼學期末 - 去中心化儲存中的所有權零知識證明 <br>
-組員 - 陳學義、邱浩宸
+邱浩宸
 
 <div class="pt-12">
   <span @click="$slidev.nav.next" class="px-2 py-1 rounded cursor-pointer" hover="bg-white bg-opacity-10">
